@@ -18,6 +18,7 @@
     [super viewDidLoad];
 
     NSLog(@"测试");
+    NSLog(@"第一次");
 }
 
 @end
